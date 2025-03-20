@@ -1,11 +1,11 @@
 ### Spelers
 - Speler X = Dennis
-- Speler O = __
+- Speler O = Hayke
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |x|🔲|🔲|
+| A | x | O |🔲|
 | B |🔲|🔲|🔲|
 | C |🔲|🔲|🔲|
 
